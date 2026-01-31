@@ -81,7 +81,7 @@ image: "./cover.png"
 
 如果希望在对话中使用文件上传功能（例如发送图片），你需要配置一个对象存储服务。这里我们以阿里云 OSS 为例，它价格实惠，标准用量下一年仅需⑨块钱。
 
-![](.\attachments\e8b7a10b708f387d74a78701f3840e5a_MD5.jpeg)
+![](./attachments/e8b7a10b708f387d74a78701f3840e5a_MD5.jpeg)
 
 
 ### 4.1 创建 OSS Bucket
@@ -100,7 +100,7 @@ image: "./cover.png"
 
 
 
-![](.\attachments\04af0559a29346aaa22c1044f8d9312c_MD5.jpeg)
+![](./attachments/04af0559a29346aaa22c1044f8d9312c_MD5.jpeg)
 
 
 ### 4.3 配置跨域规则
