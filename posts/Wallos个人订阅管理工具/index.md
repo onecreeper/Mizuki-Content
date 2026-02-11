@@ -1,5 +1,6 @@
 ---
 title: "Wallos个人订阅管理工具"
+published: true
 date: 2026-02-11
 categories: ["教程与经验分享"]
 image: "./cover.png"
